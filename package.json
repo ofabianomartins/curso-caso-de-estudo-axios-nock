@@ -1,0 +1,20 @@
+{
+  "name": "estudo-dirigido-1",
+  "version": "1.0.0",
+  "description": "Estudo dirigido do programa de formação ",
+  "main": "src/index.js",
+  "author": "Equipe de Desenvolvimento",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "test": "mocha test/index_test.js"
+  },
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^8.4.0",
+    "nock": "^13.1.0"
+  },
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
