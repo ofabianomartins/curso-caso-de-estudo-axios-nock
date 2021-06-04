@@ -1,0 +1,25 @@
+[
+  {
+    "symbol_id": "KRAKENFTS_FTS_LTC_USD_210129",
+    "exchange_id": "KRAKENFTS",
+    "symbol_type": "FUTURES",
+    "asset_id_base": "LTC",
+    "asset_id_quote": "USD",
+                                                    "asset_id_unit": "USD",
+                                                            "future_contract_unit": 1.000000000,
+                                                                    "future_contract_unit_asset": "USD",
+                                                                            "future_delivery_time": "2021-01-29T00:00:00.0000000Z",
+                                                                                    "data_start": "2020-12-25",
+                                                                                            "data_end": "2021-01-29",
+                                                                                                    "data_quote_start": "2020-12-25T16:09:57.1240000Z",
+                                                                                                            "data_quote_end": "2021-01-29T15:45:23.6290000Z",
+                                                                                                                    "data_trade_start": "2020-12-25T16:29:21.2500000Z",
+                                                                                                                            "data_trade_end": "2021-01-29T15:50:32.4470000Z",
+                                                                                                                                    "symbol_id_exchange": "FI_LTCUSD_210129",
+                                                                                                                                            "asset_id_base_exchange": "LTC",
+                                                                                                                                                    "asset_id_quote_exchange": "USD",
+                                                                                                                                 "price_precision": 0.010000000,
+                                                                                                                                 "size_precision": 1.000000000
+                                                                                                                                                                        
+  }
+]
